@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+.container-box{
+    height: calc(100vh)
+}
+.container-box-left{
+    background: #404040;
+    overflow-x: hidden;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub {
+    background: #333;
+    -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45) inset;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45) inset;
+}
+
+
