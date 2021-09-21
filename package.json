@@ -63,7 +63,7 @@
     "sass-loader": "7.1.0",
     "screenfull": "^4.2.1",
     "semver": "6.0.0",
-    "ssh2": "^0.8.5",
+    "ssh2": "^1.4.0",
     "style-loader": "0.23.1",
     "terser-webpack-plugin": "1.2.3",
     "ts-pnp": "1.1.2",
